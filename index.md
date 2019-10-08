@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mdijoux25's Homepage
 
 You can use the [editor on GitHub](https://github.com/mdijoux25/mdijoux25.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
